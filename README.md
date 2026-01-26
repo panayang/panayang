@@ -8,3 +8,5 @@ Xinyu Yang is an independent researcher affiliated to Jinan Zhensheng Middle Sch
 - 🌱 I’m currently learning Rust and Theoretical Physics.
 - 👯 I’m looking to collaborate on the RSSN-Framework Project.
 - 📫 How to reach me: You could e-mail me at Pana.Yang@hotmail.com
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panayang&layout=compact&langs_count=10&theme=onedark" />
