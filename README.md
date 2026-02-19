@@ -19,6 +19,6 @@ Xinyu Yang is an independent researcher affiliated to Jinan Zhensheng Middle Sch
 
 **Wikipedia User Page**: [https://zh.wikipedia.org/wiki/User:Yangpana](https://zh.wikipedia.org/wiki/User:Yangpana)
 
-**Personal Blog Page**: [http://panayang.blog.apich.org](http://panayang.blog.apich.org)
+**Personal Blog Page**: [https://panayang.blog.apich.org](https://panayang.blog.apich.org)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panayang&layout=compact&langs_count=10&theme=onedark" />
