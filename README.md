@@ -9,4 +9,11 @@ Xinyu Yang is an independent researcher affiliated to Jinan Zhensheng Middle Sch
 - 👯 I'm looking to collaborate on enhancing the RSSN-Framework ecosystem. I’m also looking for contributors for arxiv-daily, a personal tool designed to streamline academic reading. Also, malware sample submission is also available through our organization's Security Team.
 - 📫 How to reach me: You could e-mail me at Pana.Yang@hotmail.com
 
+## Links
+
+GitHub Homepage: [https://github.com/panayang/](https://github.com/panayang/)
+ORCID: [https://orcid.org/0009-0007-2600-0948](https://orcid.org/0009-0007-2600-0948)
+Codeberg Homepage: [https://codeberg.org/panayang](https://codeberg.org/panayang)
+Wikipedia User Page: [https://zh.wikipedia.org/wiki/User:Yangpana](https://zh.wikipedia.org/wiki/User:Yangpana)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panayang&layout=compact&langs_count=10&theme=onedark" />
