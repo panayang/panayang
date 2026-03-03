@@ -21,4 +21,6 @@ Xinyu Yang is an independent researcher affiliated to Jinan Zhensheng Middle Sch
 
 **Personal Blog Page**: [https://panayang.blog.apich.org](https://panayang.blog.apich.org)
 
+**GPGP Keys**: [https://github.com/panayang/panayang/](https://github.com/panayang/panayang/)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panayang&layout=compact&langs_count=10&theme=onedark" />
