@@ -7,7 +7,7 @@ Xinyu Yang is an independent researcher affiliated to Jinan Zhensheng Middle Sch
 - 🔭 I'm currently working on the RSSN-Framework (Lead Developer) and actively maintaining bincode-next.
 - 🌱 I’m currently learning Rust and Theoretical Physics.
 - 👯 I'm looking to collaborate on enhancing the RSSN-Framework ecosystem. I’m also looking for contributors for arxiv-daily, a personal tool designed to streamline academic reading. Also, malware sample submission is also available through our organization's Security Team.
-- 📫 How to reach me: You could e-mail me at Pana.Yang@hotmail.com
+- 📫 How to reach me: You could e-mail me at Xinyu.Yang@apich.org
 
 ## Links
 
