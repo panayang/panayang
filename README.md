@@ -1,6 +1,10 @@
-## ORCID Biography
+## Biography
 
-Xinyu Yang is an independent researcher affiliated to Jinan Zhensheng Middle School. His researches focus on the Philosophy of Science and High Energy Physics - Theory. Several preprints have been published by him in the fields of the Philosophy of Science and Computational Physics. Xinyu Yang also actively contributes to the Internet Security Community and the Open Source Community, providing novel high performance computation tools and vital security intelligence. His work aims to facilitate a more peaceful and secure cyberspace and to contribute to the advancement of theoretical physics.
+**​Xinyu Yang**
+
+Theoretical Physics | Computational Science | Cyber Security
+
+Building high-performance tools for a secure cyberspace. Published researcher in Philosophy of Science and HEP-TH. Active open-source contributor and security intelligence provider.
 
 ## GitHub Speicial 
 
