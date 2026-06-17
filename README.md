@@ -4,7 +4,8 @@
 
 Theoretical Physics | Computational Science | Cyber Security
 
-Building high-performance tools for a secure cyberspace. Published researcher in Philosophy of Science and HEP-TH. Active open-source contributor and security intelligence provider.
+Xinyu Yang's current work is dedicated to the Philosophy of Science, High Energy Physics - Theory, and Computational Physics. His professional history encompasses extensive experience in the development of critical system architectures, large-scale software infrastructure, and foundational work within the open-source and security research communities. Having moved beyond these domains, he is now prioritizing independent inquiry into fundamental physics and the development of high-performance tools for theoretical research. 
+Please note: His professional capacity is now solely focused on physics. As such, he is not accepting inquiries related to prior technical specializations, security consulting, or non-academic project collaborations.
 
 ## GitHub Speicial 
 
