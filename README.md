@@ -9,7 +9,7 @@ Please note: His professional capacity is now solely focused on physics. As such
 
 ## GitHub Speicial 
 
-- 🔭 I'm currently working on the RSSN-Framework (Lead Developer) and actively maintaining bincode-next.
+- 🔭 I'm currently working on the RSSN-Framework (Lead Developer) and actively maintaining bincode-next, dtact, and the ensia LLVM obfuscator.
 - 🌱 I’m currently learning Rust and Theoretical Physics.
 - 👯 I'm looking to collaborate on enhancing the RSSN-Framework ecosystem. I’m also looking for contributors for arxiv-daily, a personal tool designed to streamline academic reading. Also, malware sample submission is also available through our organization's Security Team.
 - 📫 How to reach me: You could e-mail me at Xinyu.Yang@apich.org
@@ -27,6 +27,10 @@ Please note: His professional capacity is now solely focused on physics. As such
 **Personal Blog Page**: [https://panayang.blog.apich.org](https://panayang.blog.apich.org)
 
 **GPG Keys**: [https://github.com/panayang/panayang/](https://github.com/panayang/panayang/)
+
+**Radicle**: [https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6MkmcxYGhYMi9CqhyaBSJk95h8tk8StsFjN9sejZVvoY25V](https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6MkmcxYGhYMi9CqhyaBSJk95h8tk8StsFjN9sejZVvoY25V)
+
+**Keet**: @panayang0
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
