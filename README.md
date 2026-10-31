@@ -26,7 +26,7 @@ Please note: His professional capacity is now solely focused on physics. As such
 
 **Personal Blog Page**: [https://panayang.blog.apich.org](https://panayang.blog.apich.org)
 
-**GPG Keys**: [https://github.com/panayang/panayang/](https://github.com/panayang/panayang/)
+**GPG Keys**: [https://keys.openpgp.org/vks/v1/by-fingerprint/A209366DDA3F44C2796E0153693F42F69B352EF6](https://keys.openpgp.org/vks/v1/by-fingerprint/A209366DDA3F44C2796E0153693F42F69B352EF6)
 
 **Radicle**: [https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6MkmcxYGhYMi9CqhyaBSJk95h8tk8StsFjN9sejZVvoY25V](https://radicle.network/nodes/iris.radicle.network/users/did%3Akey%3Az6MkmcxYGhYMi9CqhyaBSJk95h8tk8StsFjN9sejZVvoY25V)
 
